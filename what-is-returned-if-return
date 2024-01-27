@@ -1,0 +1,11 @@
+JS What is returned if just `return` inside function?
+
+```js
+function a() {
+ return
+}
+
+a()
+```
+
+Answer: undefined
