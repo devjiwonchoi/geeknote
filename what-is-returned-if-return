@@ -1,4 +1,4 @@
-JS What is returned if just `return` inside function?
+Q: In JS, what is returned if just `return` inside function?
 
 ```js
 function a() {
@@ -8,4 +8,4 @@ function a() {
 a()
 ```
 
-Answer: undefined
+A: undefined
