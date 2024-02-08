@@ -34,3 +34,13 @@ My decision is pretty much determined based on the key points above.
 - Read essential books.
 - Ask firm questions to mentors or seniors.
 - Write documents on certain topics.
+
+## Organizing Life
+
+Based on the key points above, the limited resource in life, time, can be distributed.
+
+1. Always look for problems or inefficiencies.
+2. Work out & dress neatly.
+3. Take care of girlfriend and friends. Actually take time to care about them.
+4. Read books and interpret them in your own thoughts.
+5. Always be willing to learn the skills needed for #1.
