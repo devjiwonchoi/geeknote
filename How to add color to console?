@@ -1,0 +1,8 @@
+Q: How to add color to console?
+A: console.log('\x1b[1m%s\x1b[0m', message)
+
+\x1b[1m
+
+ref: 
+https://en.wikipedia.org/wiki/ANSI_escape_code#Colors
+https://stackoverflow.com/questions/9781218/how-to-change-node-jss-console-font-color
