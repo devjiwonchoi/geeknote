@@ -1,0 +1,11 @@
+Cannot read properties of undefined.
+
+const a = undefined
+
+a.b // TypeError: Cannot read properties of undefined (reading 'b')
+
+const b = {}
+
+b.a // undefined
+
+Let's make sure to return at least an empty object if early returned above.
