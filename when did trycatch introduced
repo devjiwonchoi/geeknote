@@ -1,0 +1,2 @@
+Q: When did trycatch, .then, .catch for JS was introduced?
+A: trycatch - ES3 (DEC1999), thencatch - ES6 (2015)
