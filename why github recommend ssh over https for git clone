@@ -1,0 +1,4 @@
+Q: why github recommend ssh over http for git clone
+A: github no longer recommends ssh, probably more secure?
+
+ref: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository#cloning-a-repository
