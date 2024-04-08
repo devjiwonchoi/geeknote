@@ -1,12 +1,30 @@
-Thoughts on men's life.
+# Why should I live?
 
-Why am I living? Purpose of my life?
+Why do I live? What's the purpose of my life? This is my perspective of "why I should live".
 
-Most people would agree that it is the nature of those "living beings" to pass their genes to the next, to sustain the form of "life".
+## TL;DR
 
-The form "life" could be in various shape, as diverse as the number of species in the world.
+Just don't read this further.
 
-Us human are one of them, a single species, distributed responsibility of "secure" and "reproduce" to men and women respectively.
+## Life
+
+The form of `life` could be various, as diverse as the number of species worldwide.
+
+The `life` strives to sustain its existence and has distributed its form into many species like [k8](https://kubernetes.io/docs/concepts/overview) to be fail-safe from service termination.
+
+We, humans, are one of them, only a [single part of them](https://kubernetes.io/docs/concepts/workloads/pods) as a species.
+
+Thus, our task, our origin, and our purpose are also to sustain the form of `life`.
+
+### Sustaining Myself
+
+All software has its [EOL](https://en.wikipedia.org/wiki/End-of-life_product). All products get replaced. All human dies.
+
+Why create them in the first place? Because they are meant to provide value.
+
+Value to whom? It may vary, but for us, our end-user is `life`.
+
+If I die, it won't affect much life from a global scope, 
 
 Therefore as a man, a male, we are **responsible** of securing the action of "passing down the gene" which is simply protecting our children.
 
